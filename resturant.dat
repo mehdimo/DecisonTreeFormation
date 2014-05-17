@@ -1,0 +1,13 @@
+Alternate,Bar,FriSat,Hungry,Patrons,Price,Rain,Reservation,Type,WaitEst,WillWait
+T,F,F,T,Some,$$$,F,T,French,0-10,T
+T,F,F,T,Full,$,F,F,Thai,30-60,F
+F,T,F,F,Some,$,F,F,Burger,0-10,T
+T,F,T,T,Full,$,F,F,Thai,10-30,T
+T,F,T,F,Full,$$$,F,T,French,>60,F
+F,T,F,T,Some,$$,T,T,Italian,0-10,T
+F,T,F,F,None,$,T,F,Burger,0-10,F
+F,F,F,T,Some,$$,T,F,Thai,0-10,T
+F,T,T,F,Full,$,T,F,Burger,>60,F
+T,T,T,T,Full,$$$,F,T,Italian,10-30,F
+F,F,F,F,None,$,F,F,Thai,0-10,F
+T,T,T,T,Full,$,F,F,Burger,30-60,T
